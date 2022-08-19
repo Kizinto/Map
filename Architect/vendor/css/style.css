@@ -1,0 +1,13 @@
+.i1 {
+    opacity: 0.60;
+}
+
+.p1 {
+    text-align: justify;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 15px;  
+}
